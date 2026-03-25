@@ -1,0 +1,3 @@
+User: rock, Computer: scissor, Result: computer
+User: paper, Computer: scissor, Result: computer
+User: scissor, Computer: rock, Result: computer
